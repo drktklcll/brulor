@@ -1,1 +1,1 @@
-# yeteraq
+# yeter
